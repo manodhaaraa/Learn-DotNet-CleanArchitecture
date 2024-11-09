@@ -1,5 +1,11 @@
 # Learn-DotNet-CleanArchitecture
-This Repository contains .net8 inventory management system written with Clean Architecture
+This Repository contains .net8 inventory management system written with Clean Architecture.
+
+
+# Reference
+
+[The Clean Code Blog](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+
 
 
 
@@ -30,6 +36,3 @@ Value: So I can manage them
 - Detailed Steps
 1a. The User enters a few letters in the search box.
 2a. The user clicks on the view button.
-
-
-
